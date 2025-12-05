@@ -8,11 +8,11 @@ first install all dependencies like
 
 **3**       Download the VMware Installer (.bundle file)**
 
-	Go to the official VMware site:
+Go to the official VMware site:
 
 **[https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)**
 
-	Download one of these:
+Download one of these:
 
 - **VMware Workstation Pro for Linux (.bundle)**
     
@@ -24,4 +24,10 @@ first install all dependencies like
 look like :  VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle what have i install from 
 	https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html
 
-**5**  and just open the Vmware and it get Ready.
+**5** 
+		cd Downloads/
+		Chmod +x VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle
+		sudo sh VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle
+
+
+and just open the Vmware and it get Ready.
